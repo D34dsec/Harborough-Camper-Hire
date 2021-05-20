@@ -74,7 +74,7 @@ body {
 /* The hero image */
 .hero-image {
 	/* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero\ image.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/heroImage.jpg");
 
 	/* Set a specific height */
 	height: 100%;
@@ -132,10 +132,6 @@ body {
 	background-color: black; /* Add a dark-grey background on hover */
 }
 
-.about-me {
-	background-color: yellow;
-	height: 500px;
-}
 
 /* Footer */
 .footer {
