@@ -82,7 +82,7 @@ body {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/heroImage.jpg");
 
 	/* Set a specific height */
-	height: 100vh;
+	height: 115vh;
 
 	/* Position and center the image to scale nicely on all screens */
 	background-position: center;
